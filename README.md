@@ -30,7 +30,7 @@ The experiments highlight that different verification signals can produce mixed 
 ## Repository Contents
 
 * Research paper
-* Experimental Jupyter Notebook
+* Experimental kaggle Notebook
 * Results and visualizations
 
 ## Scope and Limitations

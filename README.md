@@ -37,6 +37,9 @@ The experiments highlight that different verification signals can produce mixed 
 
 This work provides an empirical analysis of verification behavior. The retrained reference models are comparison references, not ground-truth proof of successful forgetting.
 
-## Author
+## Publication Details
+Author: Shivani Kawade
+Journal: Journal of Advance and Future Research(JAAFR)
+Publication: Volume 4, Issue 10, October 2026
+Paper ID: JAAFRTH00105
 
-Shivani Kawade
